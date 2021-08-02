@@ -32,7 +32,7 @@ def collatz_count(n):
 		if old_y != y:	increases += 1
 		old_y = y
 		x += 1
-	return [x, y]
+	return y
 
 
 print(collatz_count(int(sys.argv[1])))
