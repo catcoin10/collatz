@@ -1,0 +1,10 @@
+These are the outputs for my program, *collatz.py*. Here are the outputs and times on my machine in seconds, and comma separated values.
+Please note that times may vary based 
+
+Input,Output,Space
+
+21,117,15
+22,133,18
+23,138,26
+24,151,44
+25,166,144
